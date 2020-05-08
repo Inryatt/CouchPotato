@@ -1,4 +1,13 @@
 .abstractSplash {
-    background-image: url("assets\CouchPotato\smooth abstract.jpg");
+    background-image: url("../CouchPotato/smooth abstract.jpg");
     background-size: cover;
+    max-height: 700px;
+}
+
+.page-scroll {
+    scroll-behavior: smooth;
+}
+
+.smoky-back {
+    background-color: rgba(255, 255, 255, 0.3);
 }
