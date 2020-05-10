@@ -43,6 +43,7 @@
             span{
                 position: relative;
                 color: #fff;
+                padding:10px;
                 font-size: 40px;
                 height: 105px;
                 width: 105px;
@@ -50,7 +51,7 @@
                 line-height: 105px;
                 border-radius: 50%;
                 text-align: center;
-                background:#e88cea;
+                background:#fcb32d;
                 margin-bottom: 42px;
                 @include transition(.5s);
 
@@ -65,7 +66,7 @@
                     margin-bottom: 27px;
                     display: inline-block;
                     &:hover{
-                        color:#835ef8;
+                        color:#ffcb20;
                     }
                 }
             }
@@ -83,7 +84,7 @@
             right: -32px;
         }
         span{
-            background:#835ef8;
+            background:#fab623;
         }
     }
 }
@@ -96,7 +97,7 @@
             right: -32px;
         }
         span{
-            background:#835ef8;
+            background:#fc9f25;
         }
     }
 }

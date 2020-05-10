@@ -1,5 +1,5 @@
     .abstractSplash {
-        background-image: url("https://cdn.wallpapersafari.com/62/98/gBqZ4H.png");
+        background-image: url("../CouchPotato/tet.jpg");
         background-size: cover;
         max-height: 700px;
     }
@@ -12,4 +12,20 @@
         background-color: rgba(0, 0, 0, 0.3);
         border-radius: 10%;
         padding: 100px;
+    }
+
+    .IMGramen{
+        content:url("../CouchPotato/kawaii ramen.png");
+    }
+
+    .IMGdonut{
+        content:url("../CouchPotato/kawaii\ donut.png")
+    }
+    .IMGroll{
+        content:url("../CouchPotato/onion\ roll.png");
+        padding:0px 0px 0px 0px;
+        
+    }
+    .my-blue{
+        background-color:rgba(42, 157, 143,0.5);
     }
